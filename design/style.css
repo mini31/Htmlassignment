@@ -1,0 +1,84 @@
+body
+{
+	background-color:#FFDAB9;
+	width:100%;
+	
+}
+#logoname
+{
+     text-align:center;
+	 margin-left:-750px;
+	 font-family: 'Diplomata', cursive;
+}
+#navigation ul li 
+{ 
+    margin-top:12px;
+	display:inline;
+	margin-left:12px;
+	font-size:150%;
+	color:black;
+	font-family: 'Rancho', cursive;
+	
+}
+#searchengine
+{
+	margin-top:20px;
+	margin-left:960px;
+	margin-bottom:20px;
+}
+
+header
+{
+	width:150%;
+	margin-top:-20px;
+	margin-left:-4px;
+	margin-right:-5px;
+	background-color:#CD5C5C;
+    height:1%;
+	
+	
+	
+}
+#hero
+{ 
+    margin-top:130px;
+	margin-left:120px;
+}
+.aside1
+{
+	margin-right:-23px;
+	font-family: 'Rancho', cursive;
+	font-size:90%;
+}
+footer
+{
+	margin-left:-5px;
+	margin-right:-20px;
+	
+	background-color:#CD5C5C;
+	margin-bottom:-35px;
+	
+}
+
+footer .grid_6 ul li 
+{
+	margin-left: 50px;
+	margin-right:-5px;
+	color:black;
+	list-style-type: none;
+	list-style:none;
+    font-family: 'Playball', cursive;
+	
+}
+footer .grid_6 ul li:hover
+{
+	color: #808B96;
+	
+}
+#social ul a
+{
+	color:black;
+	font-family: 'Fugaz One', cursive;
+	margin-bottom:-20px;
+	
+}
